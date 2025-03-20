@@ -7,7 +7,7 @@ With a background in **IT services & consulting**, I have hands-on experience in
 
 ## 💼 Experience & Projects  
 ✔ **Data Science Intern @ SkillCraft Technology**  
-✔ Explored datasets like **Panic Attack Data, Adult Income Dataset, and Telco Churn**  
+✔ Explored datasets like **E-commerce Data, Adult Income Dataset, and Telco Churn**  
 ✔ Built **Decision Tree Classifiers**, performed **EDA**, and worked on **predictive modeling**  
 
 ## 🚀 Technical Skills  
