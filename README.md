@@ -1,25 +1,46 @@
-# 👋 Hi, I'm Taniksha!  
+## Hi, I'm Taniksha 👋  
 
-🎯 **Aspiring Data Analyst | AI Enthusiast | Problem Solver**  
+  Entry-Level Data Analyst | Power BI | Excel | SQL  
+  India | Open to Onsite Opportunities  
 
-🔍 Passionate about **Data Analysis and Business Insights**, I love transforming raw data into actionable insights.  
-With a background in **IT services & consulting**, I have hands-on experience in **data visualization, predictive modeling, and statistical analysis**.  
+### 🔹 About Me
+- Data Analyst Bootcamp graduate  
+- Hands-on experience with real-world datasets  
+- Strong in data cleaning, EDA, dashboards & business insights  
+- Actively applying for Data Analyst / MIS / BI roles  
 
-## 💼 Experience & Projects  
-✔ **Data Science Intern @ SkillCraft Technology**  
-✔ Explored datasets like **E-commerce Data, Adult Income Dataset, and Telco Churn**  
-✔ Built **Decision Tree Classifiers**, performed **EDA**, and worked on **predictive modeling**  
+### 🔹 Skills
+- **Excel:** Pivot Tables, Power Query, VLOOKUP/XLOOKUP, Dashboards  
+- **SQL:** Joins, Subqueries, Aggregations  
+- **Power BI:** DAX, Data Modeling, Interactive Dashboards  
+- **Analytics:** HR Analytics, E-commerce,Sales Analysis
 
-## 🚀 Technical Skills  
-📊 **Data Analysis:** SQL, Excel, Power BI
-📈 **Machine Learning:** Python (Pandas, NumPy, Scikit-learn)  
-📌 **Data Visualization:** Matplotlib, Seaborn  
-💾 **Databases:** MySQL  
+### 🔹 Projects
+ **HR Analytics – Attrition & Workforce Insights**  
+- Analyzed employee attrition trends  
+- Built Power BI dashboard with KPIs  
+- Tools: Excel, SQL, Power BI  
 
-## 🎯 Goals & Interests  
-✅ Transitioning into an **IT-based Data Analyst role**  
-✅ Improving **Power BI skills for Data Analyst interviews**  
+ **E-commerce Sales Analysis**  
+- Revenue, AOV, repeat customer analysis  
+- Business-driven insights for growth  
+- Tools: Power BI, Excel
 
-## 📬 Connect with Me  
-📧 [Email](tanikshasaini2003@gmail.com)  
-🚀 [GitHub](https://github.com/taniksha003)  
+ **Pizza Sales Analysis**  
+- Analyzed pizza sales data to identify best-selling pizzas, peak order times, and revenue trends  
+- Calculated KPIs such as Total Revenue, Average Order Value (AOV), Orders per Day, and Category-wise Sales  
+- Used SQL queries for data extraction and aggregation  
+- Built an interactive Power BI dashboard for business decision-making  
+- Provided insights to optimize menu, pricing, and inventory planning  
+
+**Tools:** SQL
+
+
+
+### 🔹 Currently Learning
+- Advanced Power BI (DAX, Optimization)  
+- Python
+
+📫 **Connect with me:**  
+- Email: (tanikshasaini2003@gmail.com)
+
